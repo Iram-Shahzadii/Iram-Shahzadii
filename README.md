@@ -1,4 +1,4 @@
-# Hi 👋, I'm Iram Shahzadi  
+# Hi 👋, I'm Iram Shahzadi
 
 ## 💫 About Me  
 🎓 BSCS Student | 💻 Aspiring Full-Stack Developer  
