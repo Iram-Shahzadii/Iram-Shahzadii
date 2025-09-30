@@ -16,9 +16,6 @@
 [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Iram57238)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@IramCodes)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iramshahzadishahzadi892@gmail.com)  
-
----
-
 ## 💻 Tech Stack  
 **Languages & Core Skills:**  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  
