@@ -1,7 +1,7 @@
 # Hi 👋, I'm Iram Shahzadi
 
 ## 💫 About Me  
-👩‍💻 Junior Full-Stack Developer| 💻 Aspiring Full-Stack Developer  
+👩‍💻 Aspiring Full-Stack Developer  
 🌐 Skilled in **MERN Stack (MongoDB, Express.js, React, Node.js)** with TypeScript  
 ⚛️ Strong foundation in **C++, OOP, and Databases**  
 🚀 Passionate about building scalable web apps & solving real-world problems  
