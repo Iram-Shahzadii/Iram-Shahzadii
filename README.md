@@ -314,29 +314,35 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 ---
 
 
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Iram-Shahzadii/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=portfolio&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
-</a>
-
-<a href="https://github.com/Iram-Shahzadii/to-do-list">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=to-do-list&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Iram-Shahzadii/react-News-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=react-News-App&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
-</a>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/Iram-Shahzadii/portfolio">
+        <img src="https://img.shields.io/badge/Personal%20Portfolio-Click%20to%20View-7c3aed?style=for-the-badge&logo=github" width="300" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Iram-Shahzadii/to-do-list">
+        <img src="https://img.shields.io/badge/Task%20Manager-Click%20to%20View-4ade80?style=for-the-badge&logo=javascript" width="300" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Iram-Shahzadii/react-News-App">
+        <img src="https://img.shields.io/badge/React%20News%20App-Click%20to%20View-a78bfa?style=for-the-badge&logo=react" width="300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3"/>
-
 
 ---
 
