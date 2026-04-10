@@ -315,19 +315,33 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 
 
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
+<div align="center">
 
+<a href="https://github.com/Iram-Shahzadii/Emergency-Safety-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=Emergency-Safety-App&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
+</a>
 
-| Project Name | Tech Stack | Link |
+<a href="https://github.com/Iram-Shahzadii/video-calling-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=video-calling-project&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
+</a>
 
-| :--- | :--- | :--- |
+<br/>
 
-|**🛡️ Emergency Safety App** | Java, Android SDK, Firebase | [View Repo](https://github.com/Iram-Shahzadii/Emergency-Safety-App) |
+<a href="https://github.com/Iram-Shahzadii/blog-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=blog-backend&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
+</a>
 
-| **💬 Professional Blog App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/blog-backend) | |
+<a href="https://github.com/Iram-Shahzadii/react-News-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iram-Shahzadii&repo=react-News-App&theme=tokyonight&border_radius=10&title_color=a78bfa" width="400" />
+</a>
 
-| **📝 react-News-App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/react-News-App ) |
+</div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,100:7c3aed&height=3"/>
+</p>
 
 
 ---
