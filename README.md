@@ -316,9 +316,9 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 
 | **🚀 Full-Stack E-Commerce** | React, Node.js, MongoDB, Express | [View Repo](https://github.com/Iram-Shahzadii/E-Commerce-project) |
 
-| **💬 Video Calling App** | React, WebRTC, Socket.io | [View Repo](https://github.com/Iram-Shahzadii/blog-fronted) |
+| **💬 Professional Blog App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/blog-backend) | |
 
-| **📝 Professional Blog App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/react-News-App ) |
+| **📝 react-News-App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/react-News-App ) |
 
 
 ---
