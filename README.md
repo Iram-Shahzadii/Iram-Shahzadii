@@ -204,7 +204,7 @@ const iram: Developer = {
 
 </div>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3"/>
 
 
 
@@ -338,15 +338,9 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 
 ## 🔝 Top Contributed Repositories
 
-
-
 <div align="center">
 
-
-
-![](https://github-contributor-stats.vercel.app/api?username=Iram-Shahzadii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-
+<img src="https://github-contributor-stats.vercel.app/api?username=Iram-Shahzadii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
 
 </div>
 
