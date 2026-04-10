@@ -206,7 +206,7 @@ const iram: Developer = {
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3"/>
+
 
 
 
