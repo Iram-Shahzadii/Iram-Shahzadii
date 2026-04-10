@@ -1,38 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=121212,100:3b0a6c,100:0e031a&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=200&section=header&text=Iram%20Shahzadi&fontSize=70&fontColor=00f2fe&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20MERN%20Specialist&descAlignY=60&descSize=20&descColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=22&duration=2800&pause=1000&color=d8b4fe&center=true&vCenter=true&width=650&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;⚛️+React+%7C+Node.js+%7C+TypeScript;🛠️+Building+Digital+Experiences;🌱+Continuous+Learner" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Iram-Shahzadii&label=Profile+Views&color=6d28d9&style=plastic" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Iram-Shahzadii&label=Profile+Views&color=00f2fe&style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Iram-Shahzadii?label=Followers&style=plastic&color=6d28d9&labelColor=1a1a2e" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Iram-Shahzadii?label=Followers&style=flat-square&color=00f2fe&labelColor=333333" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Internships-059669?style=plastic&labelColor=1a1a2e" alt="Open To Work"/>
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-00f2fe?style=flat-square&labelColor=333333" alt="Open To Work"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+## ⚡ About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="320" src="https://user-images.githubusercontent.com/74038190/225282913-91896e49-8032-4752-9694-4d80517852c0.gif"/>
 
 ```typescript
-const iram: Developer = {
-  name      : "Iram Shahzadi",
-  role      : "Full-Stack Developer",
-  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
-  languages : ["TypeScript", "JavaScript", "C++", "Python"],
-  focus     : "Scalable web applications",
-  learning  : "Advanced TypeScript & System Design",
-  funFact   : "☕ Coffee → Clean Code",
-  openTo    : ["Internships", "Collaborations", "Projects"],
-  contact   : "iramshahzadishahzadi892@gmail.com",
+const iram = {
+  pronouns : "She/Her",
+  code     : ["JavaScript", "TypeScript", "C++", "Python"],
+  tools    : ["React", "Node.js", "MongoDB", "Express"],
+  goal     : "Crafting seamless user experiences",
+  coffee   : true
 };
-🌐 Connect With Me
 🛠️ Tech Stack & Tools
 💬 Languages
 🎨 Frontend
