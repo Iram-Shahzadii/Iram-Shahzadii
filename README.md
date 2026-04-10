@@ -258,11 +258,15 @@ const iram: Developer = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Main-Contributor-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-4ade80?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Iram-Shahzadii?tab=repositories">
+  <img src="https://img.shields.io/badge/Main-Contributor-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/Iram-Shahzadii">
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-4ade80?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
-
 
 
 ---
