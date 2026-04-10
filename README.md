@@ -179,55 +179,31 @@ const iram: Developer = {
 ---
 
 
-
 ## 📊 GitHub Stats & Contributions
-
-
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&show_icons=true&count_private=true&title_color=a78bfa&icon_color=a78bfa&hide_border=true" />
 
-
-<img width="49%" src="https://github-readme-stats-sigma-taupe-16.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=a78bfa&icon_color=a78bfa" />
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true&fire=a78bfa&ring=a78bfa&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-
-
-<img width="40%" src="https://github-readme-stats-sigma-taupe-16.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&layout=donut&title_color=a78bfa" />
-
-
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&layout=donut&title_color=a78bfa" />
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3"/>
 
-
-
-
-
 ### 📈 Contribution Activity
-
-
 
 <div align="center">
 
-
-
-[![Iram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iram-Shahzadii&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff&custom_title=Iram%27s%20Contribution%20Graph&title_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iram-Shahzadii&theme=tokyo-night&area=true&hide_border=true&area_color=7c3aed&line=a78bfa&custom_title=Iram%27s%20Contribution%20Graph&title_color=a78bfa" />
 
 </div>
 
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,100:7c3aed&height=3"/>
-
 
 
 ### 🐍 Contribution Snake
@@ -256,15 +232,9 @@ const iram: Developer = {
 
 ## 🏆 GitHub Achievements
 
-
-
 <div align="center">
 
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Iram-Shahzadii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=Iram-Shahzadii&theme=tokyonight&no-bg=true&margin-w=10&column=4" />
 
 </div>
 
