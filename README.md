@@ -256,15 +256,15 @@ const iram: Developer = {
 
 ## 🏆 GitHub Achievements
 
+
+
 <div align="center">
 
-<a href="https://github.com/Iram-Shahzadii?tab=repositories">
-  <img src="https://img.shields.io/badge/Main-Contributor-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
-<a href="https://github.com/Iram-Shahzadii">
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-4ade80?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Iram-Shahzadii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" />
+
+
 
 </div>
 
