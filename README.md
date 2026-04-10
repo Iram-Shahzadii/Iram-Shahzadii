@@ -258,7 +258,8 @@ const iram: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/stats/awards?username=Iram-Shahzadii&theme=tokyonight" alt="GitHub Achievements" />
+<img src="https://img.shields.io/badge/Main-Contributor-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-4ade80?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
