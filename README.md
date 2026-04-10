@@ -177,14 +177,13 @@ const iram: Developer = {
 
 
 ---
-
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa" />
+<img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Iram-Shahzadii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&layout=donut&theme=tokyonight&hide_border=true&title_color=a78bfa" />
+<img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Iram-Shahzadii&layout=donut&theme=tokyonight&hide_border=true&title_color=a78bfa" />
 
 </div>
 
