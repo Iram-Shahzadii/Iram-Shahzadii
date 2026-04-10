@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00008B,100:0000FF&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:#000000,50:#00008B,100:#0000FF&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 
