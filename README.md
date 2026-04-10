@@ -1,28 +1,21 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Iram%20Shahzadi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:7c3aed&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=c4b5fd"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=Iram-Shahzadii&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Iram-Shahzadii?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
 
 <br/><br/>
 
-<!-- Snake animation contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iram-Shahzadii/Iram-Shahzadii/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iram-Shahzadii/Iram-Shahzadii/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Iram-Shahzadii/Iram-Shahzadii/output/github-snake-dark.svg" />
-</picture>
+<!-- Badges Row -->
+<img src="https://komarev.com/ghpvc/?username=Iram-Shahzadii&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Iram-Shahzadii?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge&labelColor=1a1a2e" alt="Open To Work"/>
 
 </div>
 
@@ -30,18 +23,19 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 const iram: Developer = {
-  name:     "Iram Shahzadi",
-  role:     "Full-Stack Developer",
-  stack:    ["MongoDB", "Express.js", "React", "Node.js"],
-  languages:["TypeScript", "JavaScript", "C++", "Python"],
-  focus:    "Building scalable web applications",
-  learning: "Advanced TypeScript & Modern Frameworks",
-  funFact:  "I turn ☕ coffee into clean, creative code",
-  openTo:   ["Collaborations", "Internships", "Projects"],
+  name      : "Iram Shahzadi",
+  role      : "Full-Stack Developer",
+  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
+  languages : ["TypeScript", "JavaScript", "C++", "Python"],
+  focus     : "Scalable web applications",
+  learning  : "Advanced TypeScript & System Design",
+  funFact   : "☕ Coffee → Clean Code",
+  openTo    : ["Internships", "Collaborations", "Projects"],
+  contact   : "iramshahzadishahzadi892@gmail.com",
 };
 ```
 
@@ -49,12 +43,12 @@ const iram: Developer = {
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iram-shahzadi-5294a6329)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iram57238)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iram57238)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IramCodes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iramshahzadishahzadi892@gmail.com)
 
@@ -97,27 +91,41 @@ const iram: Developer = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=a78bfa" />
 
 </div>
 
----
+<!-- Green separator bar -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3&section=header"/>
 
-## 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <div align="center">
 
-[![Iram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iram-Shahzadii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Iram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iram-Shahzadii&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff&custom_title=Iram%27s%20Contribution%20Graph&title_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+<!-- Green separator bar -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,100:7c3aed&height=3&section=header"/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iram-Shahzadii/Iram-Shahzadii/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iram-Shahzadii/Iram-Shahzadii/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Iram-Shahzadii/Iram-Shahzadii/output/github-snake-dark.svg" width="100%"/>
+</picture>
 </div>
 
 ---
@@ -126,33 +134,40 @@ const iram: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iram-Shahzadii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Iram-Shahzadii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎯 Current Goals & Learning Path
+## 🎯 2025 Roadmap
 
 ```
-🎯 2025 Roadmap
-├── 🔥 Master Advanced TypeScript Patterns
-├── 📦 Deep dive into System Design
-├── ☁️  Learn Cloud (AWS / Vercel / Railway)
-├── 🧪 Testing with Jest & Cypress
-├── 🤖 Explore AI/ML integrations in Web Apps
-└── 🚀 Land a Full-Stack Developer Internship
+🎯 Iram's 2025 Goals
+│
+├── ✅  MERN Stack Projects — Portfolio-worthy apps
+├── 🔄  Advanced TypeScript — Generics, Decorators, Utility Types
+├── 📦  System Design — Scalability & Architecture patterns
+├── ☁️   Cloud Deployment — AWS / Vercel / Railway
+├── 🧪  Testing — Jest & Cypress (unit + e2e)
+├── 🤖  AI Integration — OpenAI APIs in web apps
+└── 🚀  Land a Full-Stack Developer Internship 💜
 ```
 
 ---
 
-## 💡 Dev Quote of the Day
+## 🌊 Skill Proficiency
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+```
+C++ / OOP            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  88%
+React / Vite         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  85%
+MongoDB              ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  82%
+Node.js / Express    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  78%
+TypeScript           ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  70%
+MySQL                ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  65%
+Figma / UI Design    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  63%
+Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░░  55%
+```
 
 ---
 
@@ -166,33 +181,26 @@ const iram: Developer = {
 
 ---
 
-## 🌊 Skill Proficiency
+## 💡 Dev Quote of the Day
 
-```
-React / Next.js      ████████████████░░  85%
-Node.js / Express    ███████████████░░░  78%
-TypeScript           █████████████░░░░░  70%
-MongoDB              ████████████████░░  82%
-MySQL                ████████████░░░░░░  65%
-C++ / OOP            █████████████████░  88%
-Python               ██████████░░░░░░░░  55%
-Figma / UI Design    ████████████░░░░░░  63%
-```
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn"/>
 
-### 💜 Open to collaborations, internships & exciting projects!
+### 💜 Open to Collaborations · Internships · Exciting Projects
 
 **_"First, solve the problem. Then, write the code."_** — John Johnson
 
 <br/>
 
-⭐ **If you find my work helpful, consider giving a star!** ⭐
+⭐ **Star my repos if you find them helpful!** ⭐
 
 </div>
-
