@@ -3,10 +3,8 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:7c3aed&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=c4b5fd"/>
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-</a>
+<!-- Animated Typing SVG - Fixed URL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -95,17 +93,18 @@ const iram: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=a78bfa&icon_color=a78bfa" />
+&nbsp;
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
-<br/>
+<br/><br/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&title_color=a78bfa" />
 
 </div>
 
-<!-- Green separator bar -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3&section=header"/>
+<!-- Green to Purple separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3"/>
 
 ### 📈 Contribution Activity
 
@@ -115,8 +114,8 @@ const iram: Developer = {
 
 </div>
 
-<!-- Green separator bar -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,100:7c3aed&height=3&section=header"/>
+<!-- Purple to Green separator -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4ade80,100:7c3aed&height=3"/>
 
 ### 🐍 Contribution Snake
 
