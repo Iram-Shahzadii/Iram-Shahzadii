@@ -38,26 +38,43 @@
 
 
 ---
-
 ## 🌟 About Me
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="top" width="55%">
+
+
+<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+
 
 ```typescript
+
 const iram: Developer = {
-  name      : "Iram Shahzadi",
-  role      : "Full-Stack Developer",
-  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
-  languages : ["TypeScript", "JavaScript", "C++", "Python"],
-  focus     : "Scalable web applications",
-  learning  : "Advanced TypeScript & System Design",
-  funFact   : "☕ Coffee → Clean Code",
-  openTo    : ["Internships", "Collaborations", "Projects"],
-  contact   : "iramshahzadishahzadi892@gmail.com",
+
+  name      : "Iram Shahzadi",
+
+  role      : "Full-Stack Developer",
+
+  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
+
+  languages : ["TypeScript", "JavaScript", "C++", "Python"],
+
+  focus     : "Scalable web applications",
+
+  learning  : "Advanced TypeScript & System Design",
+
+  funFact   : "☕ Coffee → Clean Code",
+
+  openTo    : ["Internships", "Collaborations", "Projects"],
+
+  contact   : "iramshahzadishahzadi892@gmail.com",
+
 };
+
+```
+
+
+
+<br clear="right"/>
 
 
 ---
