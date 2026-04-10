@@ -44,7 +44,7 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
 
 ```typescript
 const iram: Developer = {
@@ -58,8 +58,6 @@ const iram: Developer = {
   openTo    : ["Internships", "Collaborations", "Projects"],
   contact   : "iramshahzadishahzadi892@gmail.com",
 };
-
-
 
 
 ---
