@@ -306,14 +306,19 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 
 
 
-## 🚀 Top Projects & Repositories
+## 💻 Featured Projects
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&layout=donut&theme=tokyonight&hide_border=true" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&show_icons=true&theme=tokyonight&hide_border=true" width="52%" />
 
-</div>
+| Project Name | Tech Stack | Link |
+
+| :--- | :--- | :--- |
+
+| **🚀 Full-Stack E-Commerce** | React, Node.js, MongoDB, Express | [View Repo](https://github.com/Iram-Shahzadii/E-Commerce-project) |
+
+| **💬 Video Calling App** | React, WebRTC, Socket.io | [View Repo](https://github.com/Iram-Shahzadii/blog-fronted) |
+
+| **📝 Professional Blog App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/react-News-App ) |
 
 
 ---
