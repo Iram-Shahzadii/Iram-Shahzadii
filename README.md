@@ -306,14 +306,14 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 
 
 
-## 🔝 Top Contributed Repositories
+## 🚀 Top Projects & Repositories
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Iram-Shahzadii&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&layout=donut&theme=tokyonight&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&show_icons=true&theme=tokyonight&hide_border=true" width="52%" />
 
 </div>
-
 
 
 ---
