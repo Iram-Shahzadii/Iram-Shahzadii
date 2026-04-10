@@ -93,12 +93,12 @@ const iram: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=a78bfa&icon_color=a78bfa" />
+<img width="49%" src="https://github-readme-stats-sigma-taupe-16.vercel.app/api?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=a78bfa&icon_color=a78bfa" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Iram-Shahzadii&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&layout=donut&title_color=a78bfa" />
+<img width="40%" src="https://github-readme-stats-sigma-taupe-16.vercel.app/api/top-langs/?username=Iram-Shahzadii&theme=tokyonight&hide_border=true&layout=donut&title_color=a78bfa" />
 
 </div>
 
