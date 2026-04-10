@@ -314,7 +314,7 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 
 | :--- | :--- | :--- |
 
-| **🚀 Full-Stack E-Commerce** | React, Node.js, MongoDB, Express | [View Repo](https://github.com/Iram-Shahzadii/E-Commerce-project) |
+|**🛡️ Emergency Safety App** | Java, Android SDK, Firebase | [View Repo](https://github.com/Iram-Shahzadii/Emergency-Safety-App) |
 
 | **💬 Professional Blog App** | MERN Stack (Backend + Frontend) | [View Repo](https://github.com/Iram-Shahzadii/blog-backend) | |
 
