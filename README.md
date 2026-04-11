@@ -43,7 +43,7 @@
 
 
 
-<br clear="right"/>
+
 
 
 ---
