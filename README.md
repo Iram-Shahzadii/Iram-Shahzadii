@@ -38,20 +38,7 @@
 
 
 ---
-🌟 About Me
-<div align="center">
-<img alt="Coding GIF" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-</div>
-<br/>
 
-👩‍💻 Role: Aspiring Full-Stack Developer
-🌐 Stack: MongoDB · Express.js · React · Node.js
-💬 Languages: TypeScript · JavaScript · C++ · Python
-🎯 Focus: Building scalable web applications
-🌱 Learning: Advanced TypeScript & System Design
-☕ Fun Fact: I turn coffee into clean, creative code
-💼 Open To: Internships · Collaborations · Projects
-📧 Contact: iramshahzadishahzadi892@gmail.com
 ```
 
 
