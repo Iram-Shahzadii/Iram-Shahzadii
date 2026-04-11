@@ -40,7 +40,16 @@
 ---
 
 ```
+🌟 About Me
+<div align="center">
+<img alt="Coding GIF" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+</div>
+<br/>
 
+🚀 I'm a passionate Full-Stack Developer from Pakistan, dedicated to crafting clean, scalable web applications using the MERN stack. I love turning complex problems into simple, beautiful solutions.
+
+<br/>
+👩‍💻 RoleAspiring Full-Stack Developer🌐 StackMongoDB · Express.js · React · Node.js💬 LanguagesTypeScript · JavaScript · C++ · Python🎯 FocusBuilding scalable web applications🌱 Currently LearningAdvanced TypeScript & System Design💼 Open ToInternships · Collaborations · Projects☕ Fun FactI turn coffee into clean, creative code📧 Contactiramshahzadishahzadi892@gmail.com
 
 
 
