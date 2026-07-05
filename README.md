@@ -1,22 +1,4 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:7c3aed&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20(MERN)%20%7C%20AI%20%26%20Python%20Enthusiast&descAlignY=58&descSize=18&descColor=c4b5fd"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Full-Stack+Developer+%7C+MERN+Stack;🐍+Exploring+AI+%26+Python+for+Real+Apps;⚛️+React+%2B+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-
-<br/><br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Iram-Shahzadii&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Iram-Shahzadii?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge&labelColor=1a1a2e" alt="Open To Work"/>
-
-</div>
-
+TypeScript           ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  70%MySQL                ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  65%Figma / UI Design    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  63%Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░░  55%``` --- ## 🚀 Featured Projects <div align="center"> <table border="0">  <tr>    <td>      <a href="https://github.com/Iram-Shahzadii/portfolio">        <img src="https://img.shields.io/badge/Personal%20Portfolio-Click%20to%20View-7c3aed?style=for-the-badge&logo=github" width="300" />      </a>    </td>    <td>      <a href="https://github.com/Iram-Shahzadii/to-do-list">        <img src="https://img.shields.io/badge/Task%20Manager-Click%20to%20View-4ade80?style=for-the-badge&logo=javascript" width="300" />      </a>    </td>  </tr>  <tr>    <td colspan="2" align="center">      <a href="https://github.com/Iram-Shahzadii/react-News-App">        <img src="https://img.shields.io/badge/React%20News%20App-Click%20to%20View-a78bfa?style=for-the-badge&logo=react" width="300" />      </a>    </td>  </tr></table> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4ade80&height=3"/> --- ## 💡 Dev Quote of the Day <div align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) </div> --- <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn"/> ### 💜 Open to Collaborations · Internships · Exciting Projects **_"First, solve the problem. Then, write the code."_** — John Johnson <br/> ⭐ **Star my repos if you find them helpful!** ⭐ </div> 
 ---
 
 ## 🌟 About Me
