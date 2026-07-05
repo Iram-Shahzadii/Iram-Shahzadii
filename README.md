@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:7c3aed&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:7c3aed&height=220&section=header&text=Iram%20Shahzadi&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20(MERN)%20%7C%20AI%20%26%20Python%20Enthusiast&descAlignY=58&descSize=18&descColor=c4b5fd"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Aspiring+Full-Stack+Developer;⚛️+MERN+Stack+%7C+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;🌱+Always+Learning%2C+Always+Growing;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👩‍💻+Full-Stack+Developer+%7C+MERN+Stack;🐍+Exploring+AI+%26+Python+for+Real+Apps;⚛️+React+%2B+TypeScript+Enthusiast;🚀+Building+Scalable+Web+Applications;☕+Turning+Coffee+into+Clean+Code;💜+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -27,18 +27,19 @@
 
 <br/>
 
-> 🚀 *I'm a passionate Full-Stack Developer from Pakistan, dedicated to crafting clean, scalable web applications using the MERN stack. I love turning complex problems into simple, beautiful solutions.*
+> 🚀 *I'm a Full-Stack Developer from Pakistan who builds clean, scalable web applications with the MERN stack — and I'm actively growing into AI & Python, integrating intelligent features into the apps I build. I like taking a messy problem, breaking it down, and shipping something simple and solid.*
 
 <br/>
 
 | | |
 |---|---|
-| 👩‍💻 **Role** | Aspiring Full-Stack Developer |
-| 🌐 **Stack** | MongoDB · Express.js · React · Node.js |
-| 💬 **Languages** | TypeScript · JavaScript · C++ · Python |
-| 🎯 **Focus** | Building scalable web applications |
-| 🌱 **Currently Learning** | Advanced TypeScript & System Design |
-| 💼 **Open To** | Internships · Collaborations · Projects |
+| 👩‍💻 **Role** | Full-Stack Developer (MERN) · AI & Python Enthusiast |
+| 🌐 **Core Stack** | MongoDB · Express.js · React · Node.js |
+| 🐍 **Growing In** | Python · Data Basics · OpenAI API Integration |
+| 💬 **Languages** | JavaScript · TypeScript · C++ · Python |
+| 🎯 **Focus** | Scalable web apps with real, working AI features — not just buzzwords |
+| 🌱 **Currently Learning** | Advanced TypeScript · System Design · ML Fundamentals |
+| 💼 **Open To** | Internships · Collaborations · Freelance Projects |
 | ☕ **Fun Fact** | I turn coffee into clean, creative code |
 | 📧 **Contact** | iramshahzadishahzadi892@gmail.com |
 
@@ -79,6 +80,14 @@
 ![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🐍 AI & Data (Actively Growing)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+> 💡 This row is what I'm building toward, not a finished skillset — I'd rather list it honestly here and let my pinned repos prove it as the projects land.
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -141,17 +150,18 @@
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 ```
-🎯 Iram's 2025 Goals
+🎯 Iram's 2026 Goals
 │
 ├── ✅  MERN Stack Projects — Portfolio-worthy apps
 ├── 🔄  Advanced TypeScript — Generics, Decorators, Utility Types
 ├── 📦  System Design — Scalability & Architecture patterns
 ├── ☁️   Cloud Deployment — AWS / Vercel / Railway
 ├── 🧪  Testing — Jest & Cypress (unit + e2e)
-├── 🤖  AI Integration — OpenAI APIs in web apps
+├── 🤖  AI Integration — Shipping a real project using OpenAI APIs
+├── 🐍  Python for Web — Using Python alongside MERN, not instead of it
 └── 🚀  Land a Full-Stack Developer Internship 💜
 ```
 
@@ -159,15 +169,18 @@
 
 ## 🌊 Skill Proficiency
 
+> Numbers below are self-rated — update them as you actually level up, don't round up for looks.
+
 ```
-C++ / OOP            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  88%
-React / Vite         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  85%
-MongoDB              ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  82%
-Node.js / Express    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  78%
-TypeScript           ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  70%
-MySQL                ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  65%
-Figma / UI Design    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  63%
-Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░░  55%
+React / Vite          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  85%
+MongoDB                ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  82%
+JavaScript / C++ OOP    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  88%
+Node.js / Express      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  78%
+TypeScript             ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  70%
+MySQL                  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  65%
+Figma / UI Design      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  63%
+Python                 ▓▓▓▓▓▓▓▓▓▓░░░░░░░░  55%
+AI / OpenAI API        ▓▓▓▓▓▓░░░░░░░░░░░░  35%
 ```
 
 ---
@@ -197,6 +210,8 @@ Python               ▓▓▓▓▓▓▓▓▓▓░░░░░░░░  55%
     </td>
   </tr>
 </table>
+
+> 🔜 Next slot reserved for the first AI-integrated project — swap this note out once it's live.
 
 </div>
 
